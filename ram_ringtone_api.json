@@ -1,1 +1,158 @@
 
+{
+  "message": "success",
+  "info": {
+    "trending": [
+      {
+        "id": "1",
+        "title": "Jay shree ram",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Bulleya-From-Ae-Dil-Hai-Mushkil.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/bulleya.mp3",
+        "file_name": "bulleya.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Deva Deva",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Deva-Deva-From-Brahmastra-Hindi-2022-20220812225424-500x500.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/Om_Deva_Deva_Ringtone-1422.mp3",
+        "file_name": "Om_Deva_Deva_Ringtone-1422.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Fitoor",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Hindi_Film_Poster.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Ringtone-1424.mp3",
+        "file_name": "Fitoor_Ringtone-1424.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Pal Pal Dil Ke Paas",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Pal-Pal-Dil-Ke-Paas-Hindi-2019-20200420150444-500x500.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/pal_pal_dil_ke_pass_-234.mp3",
+        "file_name": "pal_pal_dil_ke_pass_-234.mp3"
+      }
+    ],
+    "popular": [
+      {
+        "id": "1",
+        "title": "Aabaad barbaad",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/aabaad-barbaad-Flyer.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/aabaad_barbaad.mp3",
+        "file_name": "aabaad_barbaad.mp3"
+      },
+      {
+        "id": "1",
+        "title": "kesariya tera",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/kesariya_tera.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/kesariya_Tera_Ringtone.mp3",
+        "file_name": "kesariya_Tera_Ringtone.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Naina",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/naina.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/naina_arijit_singh-204.mp3",
+        "file_name": "naina_arijit_singh-204.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Pachtaoge",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge.jpg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/pachtaoge_ringtone.mp3",
+        "file_name": "pachtaoge_ringtone.mp3"
+      }
+    ],
+    "new": [
+      {
+        "id": "1",
+        "title": "Tujhe kitna chahne",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/tujhe_kitna_chahne.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/tujhe_kitna_chahne.mp3",
+        "file_name": "tujhe_kitna_chahne.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Naina",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/naina.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/naina_arijit_singh-204.mp3",
+        "file_name": "naina_arijit_singh-204.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Aabaad barbaad",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/aabaad-barbaad-Flyer.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/aabaad_barbaad.mp3",
+        "file_name": "aabaad_barbaad.mp3"
+      },
+      {
+        "id": "1",
+        "title": "Fitoor",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Hindi_Film_Poster.jpeg",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/Fitoor_Ringtone-1424.mp3",
+        "file_name": "Fitoor_Ringtone-1424.mp3"
+      }
+    ],
+    "all_time_fav": [
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "file_name": ""
+      },
+      {
+        "id": "1",
+        "title": "",
+        "desc": "Feel like arijit singh",
+        "thumbnail": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "music_url": "https://devkaranjurad.github.io/arijitsingh_ringtone/",
+        "file_name": ""
+      }
+    ]
+  }
+}
