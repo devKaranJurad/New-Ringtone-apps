@@ -1,6 +1,6 @@
 {
   "message": "success",
-  "ringtone_api": "https://quiet-douhua-ef32a3.netlify.app/gan2esh_ringtone.json",
+  "ringtone_api": "https://quiet-douhua-ef32a3.netlify.app/mata_ki_ringtone_api.json",
   "apps": [
     {
       "id": "1",
